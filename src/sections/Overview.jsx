@@ -28,7 +28,7 @@ export const Overview = ({ openContactModal }) => {
             <p> 
              Godrej Yelahanka is an upcoming ultra-premium residential address in North Bengaluru, offering refined living in a prime, well-connected neighborhood. Designed by Godrej Properties, the project promises luxury, quality construction, and strong long-term value, with EOI now open for early access. <p />
             <br/>
-            <p> Spread across 10 acres with 9 high-rise towers, the development features spacious 3, 3.5 & 4.5 BHK luxe residences, thoughtfully planned for modern families. With premium specifications, elegant layouts, and a tentative price of ₹18,000 PSF, Godrej Yelahanka sets a new benchmark for upscale living with possession expected in 4 years.</p>
+            <p> Spread across 10 acres with 9 high-rise towers, the development features spacious 3, 3.5 & 4.5 BHK luxe residences, thoughtfully planned for modern families. With premium specifications, Godrej Yelahanka sets a new benchmark for upscale living with possession expected in 4 years.</p>
             
             </p>
 
